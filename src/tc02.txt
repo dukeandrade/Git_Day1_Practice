@@ -3,3 +3,5 @@ this will be my test case 2
 this will also be uploaded to github
 
 i will be adding more test cases soon
+
+edited: i need to learn how to update in github so this is and edit, it will be committed and pushed
