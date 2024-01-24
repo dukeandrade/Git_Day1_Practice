@@ -1,0 +1,5 @@
+last text file to add
+
+be careful to name it .txt and not .yxy
+
+i accidentally did that to a file, committed it and then could not figure out how to delete it
