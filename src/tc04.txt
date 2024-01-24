@@ -1,0 +1,5 @@
+i had to delete the last project off of git
+
+and also off of intellij
+
+couldn't figure out how to do it at first
